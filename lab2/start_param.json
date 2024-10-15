@@ -1,0 +1,10 @@
+{
+"num_drops": 800,
+"density": ["#8037C9", "#9252D2", "#B78DE1", "#9061BF", 
+            "#302828", "#000000", "#2B1F3C", 
+            "#2F36FF", "#8A8EFF", "#B5D5FF"], 
+"speed": {"min": 8, "max": 40}, 
+"angle": {"min": -20, "max": 20}, 
+"size": {"width": {"min": 1, "max": 5}, 
+        "height": {"min": 5, "max": 20}}
+}
